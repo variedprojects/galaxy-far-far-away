@@ -14,3 +14,31 @@ touch chewbaca.txt
 4. mv ben_kenobi.txt obi_wan.txt
 
 copy ./storm_trooper.txt ../tatooine
+
+6. mv luke.txt millenium_falcon
+mv obi_wan.txt millenium_falcon
+
+7. mv millenium_falcon ../
+8.mv millenium_falcon death_star
+9.mv princess.leia.txt
+10. rm obi_wan.txt
+11. mkdir yavin_4
+12. mv millenium_falcon ../
+cd..
+mv millenium_falcon yavin_4
+13.mkdir x_wing
+14.cd millenium_falcon
+mv princess_leia.txt ../
+cd ..
+mv luke.txt x_wing
+15. mv millenium_falcon ../
+mv x_wing ../
+16. cd .. 
+cd death_star
+mkdir tie_fighter_1 tie_fighter_1 tie_fighter_1
+17.mv darth_vader.txt tie_fighter_1
+18.cp ./storm_trooper.txt ../tie_fighter_2 
+cp ./storm_trooper.txt ../tie_fighter_3
+19. mv tie_fighter_1 ../
+mv tie_fighter_2  ../
+mv  tie_fighter_3 ../
